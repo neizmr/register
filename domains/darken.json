@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "neizmr",
+        "email": "neizmr@mail.ru"
+    },
+    "description": "Clan Darken Website",
+    "repo": "https://github.com/neizmr/darken",
+    "records": {
+        "CNAME": "neizmr.github.io"
+    }
+}
